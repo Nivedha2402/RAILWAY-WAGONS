@@ -1,1 +1,6 @@
-# RAILWAY-WAGONS
+**PREVENTION OF OVERLOADING AND UNDERLOADING OF  RAILWAY-WAGONS**
+ CIL has been supplying coal to its consumers by rail through railway sidings. The railway wagons at such sidings are loaded through contractual means by pay loader. The loading of wagons by contractual arrangement often results in overloading or under loading of railway wagons. The rules for penalty overloading and under loading are notified by railway. Any penalty for overloading charged by the railway for any consignment is payable by the purchaser. Hence a digital solution in form of using 
+sensors is needed to prevent this under loading and overloading. Load cell Sensor deployed in track or in wagons detects the weight of the train. This sensing data has passed to the controller. Depends upon the weight, required action has been taken as per data feed in the controller. This solution offers a cost effective, automated and reliable solution to enhance the safety and efficiency of railway cargo transport,ultimately benefiting railway industry and the broader economy.
+
+By using software programing logic, intimating through buzzer has been given if there is overloading.Buzzer has to connect through breadboard with arduino. And 
+LED glows during under loading of goods placed in the load cell sensor. 
